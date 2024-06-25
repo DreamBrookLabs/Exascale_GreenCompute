@@ -1,4 +1,11 @@
-Big-Data Driven Life Cycle Analysis and Environmental Impact Tracing of Core New Energy Minerals (Li, Ni, Co) toward on Blockchain Carbon Accounting and Trading
+# Big-Data Driven Life Cycle Analysis and Environmental Impact Tracing of Core New Energy Minerals (Li, Ni, Co) toward on Blockchain Carbon Accounting and Trading
+
+Members/Authors:
+Guorui He, Yuhong Li, Rongkun Hu, Jieyao Qin, Shuoyu An, Dominikus Brian* , Chao Yang*
+
+Collaboration Project between DreamBrook Labs and Shanghai Jiao Tong University.
+
+ --- 
 
 ## 1. Project Overview 
 
