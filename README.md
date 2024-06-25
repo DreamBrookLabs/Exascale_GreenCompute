@@ -9,7 +9,11 @@ Funding and Expenditures for the RnD will be disclose and make transparent to ge
 ## Current Active Projects 
 
 0. Exascale Green Computing
+   Exascale Green Computing Infrastructure for Next-Generation Smart-City 
+
 1. Green Minerals
+   Big-Data Driven Life Cycle Analysis and Environmental Impact Tracing of Core New Energy Minerals (Li, Ni, Co) toward on Blockchain Carbon Accounting and Trading
+
 
 More to Come ...
 
